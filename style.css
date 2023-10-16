@@ -1,0 +1,24 @@
+body{
+    background-color:black;
+    text-align: center;
+}
+fieldset{
+    width: fit-content;
+}
+legend{
+    color: crimson;
+    text-align: center;
+}
+label{
+    color:coral 
+}
+input{
+    color:indigo ;
+}
+button:hover{
+    color:hotpink
+}
+button{
+    color: crimson;
+    background-color: darkslategrey;
+}
